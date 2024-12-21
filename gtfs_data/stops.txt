@@ -1,0 +1,3 @@
+stop_id,stop_name,stop_lat,stop_lon
+1001,Downtown Station,40.712778,-74.006111
+1002,Airport Terminal 1,40.641311,-73.778139
